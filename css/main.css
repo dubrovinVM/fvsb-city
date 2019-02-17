@@ -2963,11 +2963,16 @@ ol.tos li {
 }
 .training ul li{
 	line-height: 25px;	
-	margin-top: 20px;
+	margin-top: 30px;
 }
 .training img{
 	float: left;
-	margin-right: 35px;
-	margin-top: 10px;	
+	margin-right: 45px;
+	margin-top: 20px;	
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+.training ul li ul li{
+	line-height: 25px;	
+	margin-top: 15px;
 }
