@@ -2908,6 +2908,8 @@ ol.tos li {
 	overflow: hidden;
 	float: left;
 	margin-right: 25px;
+	box-shadow: 0.2em 0.2em 2.5px rgba(122,122,122,0.5);
+
 }
 
 .font-vydy{
@@ -2915,4 +2917,57 @@ ol.tos li {
 }
 .mt-20 {
 	margin-top: 20px;
+}
+
+.mt-30 {
+	margin-top: 30px;
+}
+
+.mt-40 {
+	margin-top: 40px;
+}
+
+.icon_sports {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	width: 500px;
+	/* height: 250px; */
+	line-height: 250px;
+	border: 1px solid #e5e5e5;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 40% auto;
+	margin: 0px 0 0px 0px;
+	font-style: normal;
+	color: #1b1b1b;
+	text-align: center;
+	overflow: hidden;
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 35px;
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+.empty_25 {
+	display: inline-block;
+	height: 25px;
+}
+
+.fnt_sz_20{
+	font-size: 20px;
+	line-height: 25px;
+}
+.training ul {
+	list-style-type: initial;
+}
+.training ul li{
+	line-height: 25px;	
+	margin-top: 20px;
+}
+.training img{
+	float: left;
+	margin-right: 35px;
+	margin-top: 10px;	
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
