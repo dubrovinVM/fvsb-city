@@ -119,9 +119,10 @@ h2,
 		font-size: 2.182rem;
 
 		line-height: 1.042;
-	}
-	
+	}	
 }
+
+
 
 @media ( min-width: 768px ) {
 	h2,
@@ -1031,8 +1032,7 @@ background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22h
 /* home hero specific pages */
 
 .hero-home {
-	background-color: #523129;
-	background-image: url("../img/bg-default.jpg");
+	background-image: url("../img/templates/main.png");
 	min-height: 400px;
 }
 
@@ -2861,12 +2861,85 @@ ol.tos li {
 	}
 
 }
+
 .logo{
 		position: absolute; 
-		display: inline-block; 
-		padding-left:10px;     	
+		display: inline-block; 		   	
 }
 
+@media ( max-width: 359px )  {
+
+	.logo{
+		width: 100%;
+		padding-left: 0px;
+		padding-top: 30px;
+	}
+	.logo img{
+		width: 100px;
+	}	
+	.v-center{
+		text-align: center;
+		word-wrap: break-word !important;
+	}
+	.hero-home {
+		background-image: url(../img/templates/main.png);
+	}
+	.socials img {
+		height: 20px !important;	
+		width: 20px !important;	
+	}
+	h1{
+		font-size: 1.3em;
+	} 
+	
+}
+
+@media ( min-width: 360px )  {
+
+	.logo{
+		width: 100%;
+		padding-left: 0px;
+		padding-top: 30px;
+	}
+	.logo img{
+		width: 250px;
+	}	
+	.v-center{
+		text-align: center;
+	}
+	.hero-home {
+		background-image: url(../img/templates/main.png);
+	}
+}
+
+@media ( min-width: 760px )  {
+	.logo{
+		width: 100%;
+		padding-left: 0px;
+		padding-top: 20px;
+	}
+	.logo img{
+		width: 400px;		
+	}	
+}
+@media ( min-width: 992px )  {
+	.logo{
+		padding-left: 10px;		
+		padding-top: 0px;		
+		float: left;
+		width: auto;
+	}
+	.logo img{
+		width: 300px;
+		padding-top: 10px;
+	}	
+	.hero-home {
+		background-image: url(../img/templates/main.png);
+	}
+	.v-center{
+		text-align: left;
+	}
+}
 
 .socials {
 	position: relative;
