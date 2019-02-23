@@ -85,22 +85,11 @@ h1.scaled {
 		font-size: 48px;
 		font-size: 2.182rem;
 		line-height: 1.042;
-<<<<<<< HEAD
-	}	
-}
-
-
-
-@media ( min-width: 768px ) {
-	h2,
-	.h2 {
-=======
 	}
 }
 
 @media ( min-width: 768px) {
 	h2, .h2 {
->>>>>>> 3def053d4fb4914d6945e956e4978c0db5bb71f2
 		font-weight: 300;
 		font-size: 54px;
 		font-size: 2.0rem;
