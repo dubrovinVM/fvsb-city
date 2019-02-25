@@ -67,7 +67,7 @@
 	padding-top: 30px;
 	padding-bottom: 185px;
 
-	background: url("../img/hero.jpg") 140px 100% no-repeat;
+	background: url("../img/v2/iphone-bg-lg.min.png") 140px 100% no-repeat;
 	background-size: 240px;
 }
 
@@ -319,4 +319,10 @@
 	margin-bottom: 0;
 
 	border: 0;
+}
+
+.img_result{
+	width: 90%;
+	height: auto;
+	margin-bottom: 15px;
 }
