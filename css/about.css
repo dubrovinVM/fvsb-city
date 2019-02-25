@@ -19,17 +19,12 @@
 }
 
 .hero-careers {
-	position: relative;
-	
+	position: relative;	
 	padding: 0;
-
 	height: auto;
-
 	border-bottom: 1px solid #dfe0e1;
-
 	background: #fff;
 	color: inherit;
-
 }
 
 /* adjust hero height with header and adjusted for border-bottom */
@@ -41,6 +36,13 @@
 		/* height: calc(100% - 135px); */
 		min-height: 590px;
 		max-height: 800px;
+	}
+
+	.hero-careers > .container  {
+		padding-top: 30px;
+		padding-bottom: 185px;
+		background: url("../img/v2/iphone-bg-lg.min.png") 140px 100% no-repeat;
+		background-size: 240px;	
 	}
 
 }
@@ -62,20 +64,10 @@
 
 }
 
-.hero-careers > .container {
-
-	padding-top: 30px;
-	padding-bottom: 185px;
-
-	background: url("../img/v2/iphone-bg-lg.min.png") 140px 100% no-repeat;
-	background-size: 240px;
-}
-
 
 @media ( min-width: 400px ) {
 	.hero-careers > .container {
 		background-position: 100% 100%;
-
 		padding-bottom: 200px;
 	}
 }
@@ -83,7 +75,6 @@
 @media ( min-width: 568px ) {
 	.hero-careers > .container {
 		background-position: 100% 100%;
-
 		background-size: 50%;
 	}
 }
@@ -92,11 +83,9 @@
 
 	.hero-careers > .container {
 		padding-top: 50px;
-
 		background-size: 46%;
 		background-position: 100% 100%;
 	}
-
 }
 
 @media ( min-width: 992px ) {
@@ -104,11 +93,9 @@
 	.hero-careers > .container {
 		padding-top: 0;
 		padding-bottom: 0;
-
 		background-size: 55%;
 		background-position: 100% 100%;
 	}
-
 }
 
 @media ( min-width: 1200px ) {
@@ -117,7 +104,6 @@
 		background-size: contain;
 		background-position: 100% 30px;
 	}
-
 }
 
 @media ( min-width: 768px ) {
@@ -125,21 +111,23 @@
 	.hero-careers h1 span {
 		white-space: nowrap;
 	}
-
 }
 
 @media ( max-width: 767px ) {
 	.hero-careers p {
-		max-width: 280px;
+		/* max-width: 280px; */
+	}
+	.hero-careers > .container  {
+		padding-top: 30px;
+		padding-bottom: 40px;
+		background-size: 240px;	
 	}
 }
 
 @media ( max-width: 767px ) {
 	.hero-careers .v-align-parent {
-		max-width: 600px;
-
+		/* max-width: 600px; */
 		margin-left: 0;
-
 	}
 }
 
@@ -269,14 +257,11 @@
 		padding-left: .4em;
 		top: 1ex;
 	}
-
 }
 
 .level-careers-overview cite {
 	display: block;
-
-	opacity: .3;
-	
+	opacity: .3;	
 	font-weight: 700;
 	font-style: normal;
 	font-size: 14px;
@@ -286,6 +271,9 @@
 @media ( max-width: 767px ) {
 	.level-career-listings {
 		padding-bottom: 60px;
+	}
+	.text-align-cntr-sm{
+		text-align: center;
 	}
 }
 
@@ -297,7 +285,6 @@
 .level-career-listings .post.active,
 .level-career-listings .post .entry {
 	padding-bottom: 20px;
-
 	border-bottom: 1px solid #f6f6f6;
 }
 

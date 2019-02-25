@@ -2197,6 +2197,12 @@ a.underline:hover {
 	margin-bottom: 120px;
 	margin-bottom: 5.455rem;
 }
+.mt-10 {
+	margin-top: 20px;	
+}
+.mt-20 {
+	margin-top: 20px;	
+}
 
 @media ( max-width: 1199px) {
 	.md-mb-0 {
