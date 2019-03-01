@@ -94,7 +94,7 @@
 </div>
 
 <div class="carousel">
-	<div class="carousel-item" style="background-image: url('img/slides-about/slide.png')"></div>
+	<div class="carousel-item" style="background-image: url('img/slides-about/slide0.png')"></div>
 	<div class="carousel-item" style="background-image: url('img/slides-about/slide1.png')"></div>
 	<div class="carousel-item" style="background-image: url('img/slides-about/slide4.png')"></div>
 	<div class="carousel-item" style="background-image: url('img/slides-about/slide5.png')"></div>
@@ -105,7 +105,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 text-center">
-				<img src="img/ceo.png" width="90%">
+				<img src="img/ceo.svg" width="90%">
 			</div>
 			<div class="col-md-6">
 				<h2>Немає меж досконалості</h2>
