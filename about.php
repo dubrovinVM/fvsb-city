@@ -40,6 +40,9 @@
 								<i class="prepended icon-arrow-down"></i><span class="btn-txt">Більше</span></a>
 							</p>
 					</div>
+					<div class="col-md-7">
+					      <img style="width:70%; float:right" class="hidden-sm hidden-xs " src="img/fighters.svg">
+					</div>
 				</div>
 			</div>
 		</div>

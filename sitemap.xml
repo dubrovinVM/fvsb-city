@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://msac.kiev.ua/</loc>
+  <lastmod>2019-03-01T21:28:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://msac.kiev.ua/files/International-polozhenja.docx</loc>
+  <lastmod>2017-12-09T19:26:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://msac.kiev.ua/index.php</loc>
+  <lastmod>2019-03-01T21:28:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://msac.kiev.ua/about.php</loc>
+  <lastmod>2019-03-01T21:28:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
