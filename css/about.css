@@ -131,15 +131,12 @@
 	}
 }
 
-
-
 @media ( min-width: 768px ) and ( max-height: 849px ), (max-width: 767px ) and ( max-height: 520px ) {
 	.page-careers .hint-arrow-contrast {
 		position: fixed;
 	}
 
 }
-
 
 /* carousel slides */
 
