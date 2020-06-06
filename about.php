@@ -31,7 +31,7 @@
 				<div class="row text-align-cntr-sm" >
 					<div class="col-sm-12 col-md-5">
 						<h1 class="mb-30 xs-mb-10 mt-20 scaled"><span>Навчайтесь захищатись!</span> <br class="hidden-sm"> <!-- Будьте в безпеці! --></h1>
-	                    <img style="width:100%;" class="hidden-md hidden-lg mb-20 mt-10" src="img/fighters.svg">
+	                    <img style="width:100%;" class="hidden-md hidden-lg mb-20 mt-10" src="img/fighters-small.svg">
 						<p class="mb-30 xs-mb-20">Запис в групи здійснюється за телефоном <br class="visible-sm visible-xs">093 829 87 91 </p>
 						<p class="mb-30 xs-mb-20">Всі бажаючі, незалежно від віку, статі та рівня фізичної підготовки можуть займатися.</p>
 						<p class="mb-30 xs-mb-20">На перших заняттях не потрібно платити гроші. Ви можете відвідувати тренування до того часу, поки не приймете рішення займатись цим регулярно!</p>
@@ -41,7 +41,7 @@
 							</p>
 					</div>
 					<div class="col-md-7">
-					      <img style="width:70%; float:right" class="hidden-sm hidden-xs " src="img/fighters.svg">
+					      <img style="width:70%; float:right" class="hidden-sm hidden-xs " src="img/fighters-small.svg">
 					</div>
 				</div>
 			</div>

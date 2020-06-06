@@ -4,7 +4,6 @@
 <title>Всестильовий бій</title>
 <?php include("blocks/google-analitics.php"); ?>
 <?php include("blocks/meta-tegs.php"); ?>
-<?php include("blocks/header-scripts.php"); ?>
 <?php include("blocks/links.php"); ?>
 </head>
 <body>
@@ -14,7 +13,7 @@
 					<img src="img/logo.svg"/>
 			</div>				
 			<div class="hidden-sm hidden-xs" style="width:100%; position: absolute; display: inline-block; padding-top: 3.5%;">
-					<img src="img/fights.svg" style="height: 700px; float: right"/>
+					<img src="img/fighters-small.svg" style="height: 700px; float: right"/>
 			</div>		
 		</div>
 		<div class="hero-overlay visible-lg"></div>		
@@ -54,7 +53,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-6 col-lg-6" style="display: inline-block;" >
 						<div style='width:100%; text-align:center; display: inline-block;'>
-								<iframe width="95%" height="300" src="https://www.youtube.com/embed/GWA6ZM32E3o" 
+								<iframe width="95%" height="300" src="https://www.youtube.com/embed/K2XdEItwmQI" 
 								frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 				</div>
@@ -192,24 +191,26 @@
 						<h1 class="mb-10 xs-mb-10 heading color-dark heading-bordered">Тренування<br class=hidden-xs>  </h1>
 						<h2 class="w-300 color-dark mb-10 fnt_sz_20 mt-20">Регулярно працюють групи для дорослих</h2>
 						<div class="w-300 color-dark mb-10 fnt_sz_20 mt-20 training">
+						<hr>
+						<p><strong>Солом'янський район</strong></p>
 							<ul class="training">
 								<li>
-									<strong>Адреса:</strong> м.Київ, вул. Курська 13-З (Національний Університет оборони України ім. Івана Черняховського,
+									<strong>Адреса:</strong> м.Київ, вул. генерала Воробйова (Курська) 13-В (Національний Університет оборони України ім. Івана Черняховського,
 									2-й поверх, зал боротьби, Навчально-науковий центр фізичної підготовки та спортивно-оздоровчих технологій,
 									кафедра фізичного виховання, спеціальної фізичної підготовки і спорту)
-								</li>
+								</li>								
 								<li>
-									<strong>Графік тренувань:</strong> вівторок, четвер 20:00
+									<strong>Графік тренувань:</strong> понеділок, середа, п`ятниця 20:00
 								</li>
 								<li>									
 									<strong>Тренер:</strong> Дубровін Віктор Михайлович<br>
 									<img class="dubr_img" src="/img/dubr.svg">
 									<ul>
-										<li>Майстер спорту України міжнародного класу</li>
-										<li>Чорний пояс II дан</li>
-										<li>4-кратний чемпіон Світу</li>
+										<li>Заслужений Майстер спорту України</li>
+										<li>Чорний пояс V дан</li>
+										<li>6-кратний чемпіон Світу</li>
 										<li>Багатократний чемпіон України</li>
-										<li>Суддя 1-ої категорії</li><br>
+										<li>Суддя національної категорії</li><br>
 									</ul>
 								</li>
 								<li>
@@ -218,12 +219,45 @@
 								<li>
 										<strong>Email:</strong> viktor.dubrovin@ukr.net
 								</li>
+								</ul><br><br>
+								<hr>
+								<p><strong>Голосіївський район</strong></p>
+								<ul>
+								<li>
+									<strong>Адреса:</strong> м.Київ, вулиця Героїв Оборони, 18А, корпус 9 (Національний університет біоресурсів і природокористування України)
+								</li>
+								<li>
+									<strong>Графік тренувань:</strong> вівторок, четвер 10:00, по суботам час уточнюється
+								</li><li>									
+									<strong>Тренер:</strong> Ратошнюк Віктор Вікторович<br>
+									<ul>
+										<li>Майстер спорту України міжнародного класу</li>
+										<li>Чорний пояс І дан</li>
+										<li>Чемпіон Світу</li>
+										<li>Багатократний чемпіон України</li>
+										<li>Суддя 1-ї категорії</li><br>
+									</ul>
+								</li>
+								<li>
+										<strong>Телефон:</strong> 098 363 00 52
+								</li>
 							</ul>
 						</div>						
 				</div>
 			</div>
 		</div>
+
+		<div class="level level-img-right">
+			<div class="container mb-40 xs-mb-40" >
+				<div class="row">
+				<h1 class="mb-10 xs-mb-10 heading color-dark heading-bordered">наш інстаграм<br class=hidden-xs></h1>
+				<iframe src='/inwidget/index.php?adaptive=true' data-inwidget scrolling='no' frameborder='no' 
+				style='border:none;width:100%;height:315px;overflow:hidden;margin-top:25px;'></iframe>
+				</div>
+			</div>
+		</div>
 	
+<?php include("blocks/header-scripts.php"); ?>
 <?php include("blocks/footer.php"); ?>
 <?php include("blocks/scripts.php"); ?>
 

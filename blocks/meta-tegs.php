@@ -14,3 +14,12 @@ shock and throwing techniques using elements of combat, boxing and martial arts 
 <meta property="og:type" content="website" />
 <meta property="fb:app_id" content="966242223397117"> 	
 <meta http-equiv="Cache-Control" content="max-age=31536000" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154239842-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154239842-1');
+</script>
